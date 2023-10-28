@@ -1,0 +1,2 @@
+Animation_Name,EnableCanRotate,DisableCanRotate,DrainStaminaBasedOnAttack,EnableCanDoCombo,DisableCanDoCombo,ActivateMainHandWeaponTrail,DeactivateMainHandWeaponTrail,ActivateOffHandWeaponTrail,DeactivateOffHandWeaponTrail,OpenDamageCollider,CloseDamageCollider,OpenMainHandDamageCollider ,CloseMainHandDamageCollider,OpenOffHandDamageCollider,CloseOffHandDamageCollider,Move Cancel,Roll Cancel
+straight_sword_main_charged_attack_01_release,0,2,2,26,34,2,6,,,3-15,8,,,,,33,30
